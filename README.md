@@ -1,0 +1,1 @@
+# safe-place-suggestion-system
